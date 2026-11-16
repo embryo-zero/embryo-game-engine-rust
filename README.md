@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Game Engine Rust
+
+**Embryo Game Engine Rust** is Embryo-Zero's fork of [bevy](https://github.com/bevyengine/bevy), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # [![Bevy](https://bevy.org/assets/bevy_logo_light_dark_and_dimmed.svg)](https://bevy.org)
 
 [![License](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)](https://github.com/bevyengine/bevy#license)
