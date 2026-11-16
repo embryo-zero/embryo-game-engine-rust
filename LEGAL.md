@@ -1,7 +1,7 @@
 # Legal notes for Embryo Game Engine Rust
 
 Embryo Game Engine Rust is a modified version of **bevy** (https://github.com/bevyengine/bevy), copyright its authors.
-License (read from its license file on 2026-11-16): **Apache-2.0**. Original license files, unchanged: LICENSE-APACHE, LICENSE-MIT.
+License (read from its license file on 2026-11-16): **MIT OR Apache-2.0, our choice (LICENSE-MIT, LICENSE-APACHE)** (read by a person). Original license files, unchanged: LICENSE-APACHE, LICENSE-MIT.
 
 - `LICENSE-APACHE`: Apache License / Version 2.0, January 2004 / http://www.apache.org/licenses/
 - `LICENSE-MIT`: MIT License / Permission is hereby granted, free of charge, to any person obtaining a copy / of this software and associated documentation files (the "Software"), to deal
