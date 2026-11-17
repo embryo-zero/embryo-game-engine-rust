@@ -124,7 +124,7 @@ static_assertions = "1"
 
 [dev-dependencies]
 proptest = "1"
-proptest-derive = "0.8"
+proptest-derive = "0.9"
 # noop backend used for tests via test_utils.rs
 wgpu = { version = "30", default-features = false, features = ["noop"] }
 
